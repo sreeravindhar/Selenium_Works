@@ -1,0 +1,12 @@
+POJO
+
+   Plain old java Object
+   
+   we kept class variable as private, then we are calling the class variable
+   in another class without using extends keyword.
+   
+   
+   POM
+     Page Object Model
+     
+     
